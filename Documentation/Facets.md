@@ -1,3 +1,4 @@
+Branch 1 change
 # Faceting
 
 SolrNet supports [faceted searching](https://cwiki.apache.org/confluence/display/solr/Faceting).
